@@ -3,15 +3,15 @@
 ### Build Guide
 
 1. First gather all of the parts. You will need:
- - Particle Photon
- - Breadboard
- - 3D Printed Case
- - Micro Servo Motor
- - Double-sided Adhesive
- - 5V Power Supply
- - Micro USB Cable
- - Pin Headers
- - Solid Strand Wire
+   - Particle Photon
+   - Breadboard
+   - 3D Printed Case
+   - Micro Servo Motor
+   - Double-sided Adhesive
+   - 5V Power Supply
+   - Micro USB Cable
+   - Pin Headers
+   - Solid Strand Wire
 
 2. Print the case for the motor:
    Use 100% infill.
@@ -26,29 +26,3 @@
 8. Connect to red to the 5V pin on the Photon, connect the brown wire to GND, and connect
    the yellow wire to pin D0.
 9. Plug the Photon in and you are all set. Next you need to flash the firmware.
-
-   
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
